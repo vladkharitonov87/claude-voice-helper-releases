@@ -25,8 +25,9 @@ Say the wake name («Клод»), dictate your request — the helper starts dic
 
 > [!NOTE]
 > The voice commands are currently **Russian only**: the wake name and the command words are Russian
-> words, shown below in «quotes» with an English translation. The app's interface is Russian as well,
-> so the names of its menu items and settings are given in both languages.
+> words, shown below in «quotes» with an English translation. The app's interface is available in
+> **English** (the default) and **Russian** — choose it in **Settings → General → Language**; below,
+> the names of its menu items and settings are given in both languages.
 
 ## What it does
 
@@ -38,7 +39,7 @@ Say the wake name («Клод»), dictate your request — the helper starts dic
 - 🎯 **Learns not to react to look-alike words.** Words that sound like the name («холод», «код») are picked automatically as exceptions, and you can add a word to them straight from the tray menu after a false start. The «Check the word» button shows what the app hears when you say a word.
 - ⏸️ **Pauses on a hotkey.** Pause and resume listening from the tray menu or with a hotkey (Ctrl + Alt + V by default; a key, a combination, or the middle/side mouse button — set in the settings).
 - 🟢 **Shows its state** with the tray icon: listening, recording, no microphone, paused.
-- ⚙️ **Configured in the app:** command words, delays, microphone, sounds, hotkeys, light or dark theme.
+- ⚙️ **Configured in the app:** command words, delays, microphone, sounds, hotkeys, light or dark theme, interface language (English or Russian).
 - 🛡️ **Explains itself** if Claude is running as administrator and offers to restart the helper with the same rights.
 - 🔄 **Updates itself:** the tray menu tells you about a new version — one click and it is installed, with a progress window.
 
@@ -83,6 +84,7 @@ the settings). Click the icon to open the settings.
 | Claude | The Claude desktop app for Windows with voice input |
 | Microphone | Any: built-in, headset or USB — chosen in the settings |
 | Command language | Russian |
+| Interface language | English or Russian — chosen in the settings |
 
 There is nothing else to install: speech recognition and everything else needed are included in the installer.
 
