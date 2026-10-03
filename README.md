@@ -83,7 +83,7 @@ the settings). Click the icon to open the settings.
 | | |
 |---|---|
 | System | Windows 10 or 11, 64-bit |
-| Claude | The Claude desktop app for Windows with voice input |
+| Claude | The Claude desktop app for Windows with voice input, its interface language set to English (the helper does not work with Claude in another language) |
 | Microphone | Any: built-in, headset or USB — chosen in the settings |
 | Command language | Russian |
 | Interface language | English or Russian — chosen in the settings |
