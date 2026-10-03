@@ -55,6 +55,7 @@ Say the wake name («Клод»), dictate your request — the helper starts dic
 | **«Клод, новый чат»** ("Claude, new chat") | Start a new chat in the Claude window |
 | **«Клод, выбор папки»** and a folder name ("Claude, choose folder") | On the new session screen, pick the folder you named from Claude's folder list; if none sounds like it, you get a notice and can choose by hand |
 | **«Клод, переключись на сессию»** and a few words of a title ("Claude, switch to session") | In the Claude sidebar, switch to the session whose title sounds like the words you said; if several fit, the topmost one is chosen, if none fits, nothing happens |
+| **«Клод, лимиты»** ("Claude, limits") | Shows a small card with the limits of the account of the Claude window you were in last (the installed Claude and a portable copy can be different accounts): the plan, the session and weekly usage, when they reset and the usage credits spent. Works from any app, as long as a Claude window has had the focus since the helper started. If Claude runs as administrator, the last numbers Claude saved are shown, marked with their time |
 
 While recording, «отправь» and «отмена» also work without the name. Starting a recording, stopping
 a reply, a new chat, choosing a folder and switching a session work only when the Claude window is active, so a random phrase in a conversation will not
@@ -120,3 +121,4 @@ Please attach the version (tray icon menu) and the log from `%AppData%\ClaudeVoi
 ---
 
 <sub>Voice Helper for Claude is an independent project not affiliated with Anthropic. Claude is a trademark of Anthropic, PBC.</sub>
+
