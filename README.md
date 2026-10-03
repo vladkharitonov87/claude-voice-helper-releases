@@ -52,9 +52,11 @@ Say the wake name («Клод»), dictate your request — the helper starts dic
 | **«Клод, отправь»** ("Claude, send") | Send right away, without waiting for the pause |
 | **«Клод, отмена»** ("Claude, cancel") | Discard what you dictated |
 | **«Клод, стоп»** ("Claude, stop") | Stop the reply Claude is writing right now |
+| **«Клод, новый чат»** ("Claude, new chat") | Start a new chat in the Claude window |
+| **«Клод, выбор папки»** and a folder name ("Claude, choose folder") | On the new session screen, pick the folder you named from Claude's folder list; if none sounds like it, you get a notice and can choose by hand |
 
-While recording, «отправь» and «отмена» also work without the name. Starting a recording and stopping
-a reply work only when the Claude window is active, so a random phrase in a conversation will not
+While recording, «отправь» and «отмена» also work without the name. Starting a recording, stopping
+a reply, a new chat and choosing a folder work only when the Claude window is active, so a random phrase in a conversation will not
 trigger anything in the background. All words and delays can be changed in the settings, **Voice commands**
 («Голосовые команды») section.
 
